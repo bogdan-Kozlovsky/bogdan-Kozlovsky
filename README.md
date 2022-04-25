@@ -23,6 +23,7 @@
 <img alt="storybook" src="https://img.shields.io/badge/-Storybook-1572B6?style=for-the-badge&logo=storybook&logoColor=white"/>
 <img alt="Axios" src="https://img.shields.io/badge/Axios-1572B6?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img alt="Postman" src="https://img.shields.io/badge/Postman-1572B6?style=for-the-badge&logo=postman&logoColor=white"/>
+<img alt="webstorm" src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=white">
 </div>
 <br />
 
