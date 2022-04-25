@@ -24,6 +24,8 @@
 <img alt="Axios" src="https://img.shields.io/badge/Axios-1572B6?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img alt="Postman" src="https://img.shields.io/badge/Postman-1572B6?style=for-the-badge&logo=postman&logoColor=white"/>
 </div>
-
 <br />
+
+## ⚔️ My CodeWars: ##
+![alt rank](https://www.codewars.com/users/bogdan-Kozlovsky/badges/large)
 <br />
