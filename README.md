@@ -37,7 +37,7 @@
 ## ⚔️ My CodeWars: ##
 ![alt rank](https://www.codewars.com/users/bogdan-Kozlovsky/badges/large)
 <br />
-![LeetCode Stats](https://leetcode.card.workers.dev/?username=bogdan-Kozlovsky&style=flat-square)
+![LeetCode Stats](https://leetcode.card.workers.dev/?username=bogdan-Kozlovsky&style=dark)
 
 
 
